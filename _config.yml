@@ -1,5 +1,5 @@
 # Fuse Core Theme for Jekyll - Settings
-# https://github.com/tsjensen/fuse-core
+# https://github.com/Santiz22
 
 markdown: kramdown
 permalink: pretty
@@ -12,12 +12,11 @@ sass:
 # When modifying this file, take care to preserve the indentation. This is YAML ...
 
 # Main Headline, name required, subtitle optional
-name: Fuse Core
+name: Kevin Santiz
 #subtitle:
-subtitle: Frontend Developer
-
+subtitle: Hola, me llamo De Kevin Jesús Santiz Girón, vivo en la ciudad de Cancún,Quintana roo,México, tengo 18 años, me gusta el jugar videojuegos, el spagheeti, los tacos,no me gusta el queso y acualmente soy estudiante de la carrera de Negocios Internacionales en la Universidad del caribe Cancún,México.  
 # Title attribute of HTML Page, uses 'name' from above if empty
-title: Fuse Core
+title: Santiz Kevin
 
 # Information for web crawlers / Google, all of them optional
 # 'description' and 'keywords' simply set the corresponding meta tags,
