@@ -72,12 +72,12 @@ links:
       icon: fab fa-twitter
   - facebook:
       name: Facebook
-      show: false
+      show: true
       href: https://facebook.com/KxvinSGiron
       icon: fab fa-facebook
   - instagram:
       name: Instagram
-      show: false
+      show: true
       href: https://www.instagram.com/sxntzg_kxvn
       icon: fab fa-instagram
   - github:
@@ -91,11 +91,3 @@ links:
       href: santizgironkevin@gmail.com
       icon: fas fa-envelope
   
-
-# Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
-#extra_html:
-extra_html: >
-    Any (multiline) text containing simple HTML,
-    such as links or ... lorem ipsum.
-
-#EOF
